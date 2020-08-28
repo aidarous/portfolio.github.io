@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+
 import basketballrps from '../assets/basketballrps.png'
 export default class Projects extends Component {
     render() {
@@ -12,16 +13,18 @@ export default class Projects extends Component {
                             <div className="columns portfolio-item">
                                 <div className="item-wrap">
                                     
-                                    <a href="#modal-01" title="" >
+                                    
                                         <img alt="" src= {basketballrps} />
                                         <div className="overlay">
                                             <div className="portfolio-item-meta">
                                                 <h5>Basketball Rps</h5>
-                                                <p>Illustrration</p>
+                                                
+                                                
                                             </div>
+                                            
                                         </div>
                                     
-                                    </a>
+                                    
                                 
                                 </div> {/* first project  */}
                             </div>

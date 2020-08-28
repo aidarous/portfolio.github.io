@@ -24,8 +24,8 @@ export default class Header extends Component {
             <ul className="social">
               
               
-              <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-              <li><a href="#"><i className="fa fa-github" /></a></li>
+              <li><a href="https://www.linkedin.com/in/aidarous-albadawi-515a20159/"><i className="fa fa-linkedin" target="_blank"/></a></li>
+              <li><a href="https://github.com/aidarous"><i className="fa fa-github" /></a></li>
               
             </ul>
           </div>
