@@ -19,8 +19,8 @@ export default class Projects extends Component {
                                             <div className="portfolio-item-meta">
                                                 <h5>Basketball Rps</h5>
                                                 
-                                                
                                             </div>
+                                            <button><a href="https://awesome-hodgkin-c22842.netlify.app/"></a> Live Site </button>
                                             
                                         </div>
                                     
