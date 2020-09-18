@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import { BrowserRouter as  Link } from 'react-router-dom'
 import basketballrps from '../assets/basketballrps.png'
 export default class Projects extends Component {
     render() {
@@ -13,20 +13,18 @@ export default class Projects extends Component {
                             <div className="columns portfolio-item">
                                 <div className="item-wrap">
                                     
-                                    
+                                    <a href="#modal-01" >
+                                        
                                         <img alt="" src= {basketballrps} />
                                         <div className="overlay">
                                             <div className="portfolio-item-meta">
-                                                <h5>Basketball Rps</h5>
-                                                
+
                                             </div>
-                                            <button><a href="https://awesome-hodgkin-c22842.netlify.app/"></a> Live Site </button>
-                                            
                                         </div>
-                                    
-                                    
-                                
+                                        </a>
+                                        
                                 </div> {/* first project  */}
+                                
                             </div>
                         </div>
                     </div>
