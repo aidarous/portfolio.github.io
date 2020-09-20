@@ -9,9 +9,9 @@ export default class Contactus extends Component {
                 <div className="row banner">
                     <ul className="social">
               
-                    <li><a href="https://www.linkedin.com/in/aidarous-albadawi-515a20159/"><i className="fa fa-linkedin" target="_blank"/></a></li>
+                    <li><a href="https://www.linkedin.com/in/aidarous-albadawi-515a20159/" className="fa fa-linkedin" target="_blank"></a></li>
                     <li><a href="https://github.com/aidarous"><i className="fa fa-github" /></a></li>
-                    <li><i className=" fa fa-envelope" /></li>
+                    <li><a href="mailto: aidarous12@gmail.com" className=" fa fa-envelope" ></a></li>
               
                     </ul>
                 </div>

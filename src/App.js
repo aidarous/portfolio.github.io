@@ -19,8 +19,9 @@ function App() {
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
             </ul> {/* end #nav */}
         </nav> {/* end #nav-wrap */}
-        </header>
         <Header />
+        </header>
+        
         <About />
         <Projects />
         <Contactus />
