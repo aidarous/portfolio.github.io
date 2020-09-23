@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { BrowserRouter as  Link } from 'react-router-dom'
 import basketballrps from '../assets/basketballrps.png'
+import bballrps from '../assets/bballrps.png'
 export default class Projects extends Component {
     render() {
         return (
@@ -15,7 +16,7 @@ export default class Projects extends Component {
                                     
                                     <a href="#modal-01" >
                                         
-                                        <img alt="" src= {basketballrps} />
+                                        <img alt="" src= {bballrps} />
                                         <div className="overlay">
                                             <div className="portfolio-item-meta">
 
