@@ -25,7 +25,9 @@ export default class Projects extends Component {
                                         </a>
                                         
                                 </div> {/* first project  */}
-                                
+                                <div>
+                                    
+                                </div>
                             </div>
                         </div>
                     </div>
