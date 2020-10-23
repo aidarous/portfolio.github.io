@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d254bb90.chunk.css",
+    "main.js": "/portfolio/static/js/main.028b4d35.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.028b4d35.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.4e63a2bc.chunk.js": "/portfolio/static/js/2.4e63a2bc.chunk.js",
+    "static/js/2.4e63a2bc.chunk.js.map": "/portfolio/static/js/2.4e63a2bc.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.cd92f84c01d2354d0821d2228b7d62c3.js": "/portfolio/precache-manifest.cd92f84c01d2354d0821d2228b7d62c3.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.d254bb90.chunk.css.map": "/portfolio/static/css/main.d254bb90.chunk.css.map",
+    "static/js/2.4e63a2bc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4e63a2bc.chunk.js.LICENSE.txt",
+    "static/media/basketballrps.png": "/portfolio/static/media/basketballrps.8387ab18.png",
+    "static/media/bballrps.png": "/portfolio/static/media/bballrps.bd01fe7f.png",
+    "static/media/profilepic.png": "/portfolio/static/media/profilepic.56401f22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.4e63a2bc.chunk.js",
+    "static/css/main.d254bb90.chunk.css",
+    "static/js/main.028b4d35.chunk.js"
+  ]
+}
